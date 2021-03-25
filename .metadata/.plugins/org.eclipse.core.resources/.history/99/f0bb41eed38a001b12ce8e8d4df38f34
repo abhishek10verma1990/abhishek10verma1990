@@ -1,0 +1,22 @@
+package com.npst.upi.portal.merchant;
+
+import com.npst.upi.portal.merchant.core.UpiQrCodeGenerator;
+import com.npst.upi.portal.merchant.entity.Merchants;
+
+public class GenerateQR {
+
+	public static void main(String[] args) {
+		Merchants merchant=new Merchants();
+		merchant.setBranchCode("034");
+		merchant.setMerchantAccountNo("034100108808");
+		merchant.setMerchantVPA("7506276356.timepay@cosmos");
+		merchant.setMccCode("5814");
+		merchant.setMerchantOrgName("TRIMURTI FOODSE");
+		merchant.setName("TRIMURTI FOODSE");
+		UpiQrCodeGenerator obj=new UpiQrCodeGenerator();
+		obj.generateQr(merchant);
+	}
+	
+	
+	
+}

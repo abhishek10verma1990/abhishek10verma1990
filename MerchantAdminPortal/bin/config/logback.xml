@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+	<property name="DEV_HOME" value="logs" />
+
+	<appender name="FILE-AUDIT"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<file>${DEV_HOME}/merchantportal.log</file>
+		<encoder
+			class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			<Pattern>
+				%d{dd-MM-yyyy HH:mm:ss.SSS} [%thread] %-5level %logger{36}.%M - %msg%n
+			</Pattern>
+		</encoder>
+
+		<rollingPolicy
+			class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<fileNamePattern>${DEV_HOME}/archived/capexportal.%d{yyyy-MM-dd}.log.gz</fileNamePattern>
+<!-- 			<timeBasedFileNamingAndTriggeringPolicy -->
+<!-- 				class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP"> -->
+<!-- 				<maxFileSize>10MB</maxFileSize> -->
+<!-- 			</timeBasedFileNamingAndTriggeringPolicy> -->
+		</rollingPolicy>
+
+	</appender>
+	<root level="info">
+		<appender-ref ref="FILE-AUDIT" />
+	</root>
+</configuration>

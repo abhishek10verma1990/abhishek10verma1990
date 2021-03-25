@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/npst/WORKSPACE_COSMOS_QR_GENERATOR/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3282538820.index
+881999107.index
+923511551.index
+2411892144.index
+4182307001.index
+2251950304.index

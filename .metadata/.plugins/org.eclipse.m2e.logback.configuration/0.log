@@ -1,0 +1,82 @@
+2021-03-19 20:28:53,595 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-19 20:29:43,056 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.npst.upi.portal.merchant:Merchant:0.0.1 @ /home/npst/WORKSPACE_COSMOS_QR_GENERATOR/MerchantAdminPortal/pom.xml.
+2021-03-19 20:29:44,923 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/2.0.1/pdfbox-2.0.1.pom
+2021-03-19 20:29:45,117 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/2.0.1/pdfbox-2.0.1.pom
+2021-03-19 20:29:45,327 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox-parent/2.0.1/pdfbox-parent-2.0.1.pom
+2021-03-19 20:29:45,532 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox-parent/2.0.1/pdfbox-parent-2.0.1.pom
+2021-03-19 20:29:45,733 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/2.0.1/fontbox-2.0.1.pom
+2021-03-19 20:29:45,937 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/2.0.1/fontbox-2.0.1.pom
+2021-03-19 20:29:46,346 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/2.0.1/pdfbox-2.0.1.jar
+2021-03-19 20:29:47,441 [Worker-6: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.npst.upi.portal.merchant:Merchant:0.0.1 @ /home/npst/WORKSPACE_COSMOS_QR_GENERATOR/MerchantAdminPortal/pom.xml.
+2021-03-19 20:29:48,505 [Worker-6: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/2.0.1/pdfbox-2.0.1.jar
+2021-03-19 20:29:49,437 [Worker-6: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/2.0.1/pdfbox-2.0.1.jar
+2021-03-19 20:29:49,569 [Worker-6: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/2.0.1/fontbox-2.0.1.jar
+2021-03-19 20:29:50,041 [Worker-6: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/2.0.1/fontbox-2.0.1.jar
+2021-03-19 20:29:50,450 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/2.0.1/pdfbox-2.0.1.jar
+2021-03-19 20:29:50,646 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/2.0.1/fontbox-2.0.1.jar
+2021-03-19 20:29:51,871 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 20:29:51,878 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-19 20:29:51,879 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-19 20:29:51,893 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 20:29:51,894 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/npst/WORKSPACE_COSMOS_QR_GENERATOR/MerchantAdminPortal/src/test/resources
+2021-03-19 20:29:53,104 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/2.0.1/fontbox-2.0.1.jar
+2021-03-19 20:29:53,926 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/2.0.1/pdfbox-2.0.1-sources.jar
+2021-03-19 20:29:54,945 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.npst.upi.portal.merchant:Merchant:0.0.1 @ /home/npst/WORKSPACE_COSMOS_QR_GENERATOR/MerchantAdminPortal/pom.xml.
+2021-03-19 20:29:55,794 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 20:29:55,799 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-19 20:29:55,800 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-19 20:29:55,813 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 20:29:55,813 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/npst/WORKSPACE_COSMOS_QR_GENERATOR/MerchantAdminPortal/src/test/resources
+2021-03-19 20:29:57,643 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 20:29:57,644 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-19 20:29:57,644 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-19 20:29:57,647 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 20:29:57,647 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/npst/WORKSPACE_COSMOS_QR_GENERATOR/MerchantAdminPortal/src/test/resources
+2021-03-19 20:29:58,329 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/2.0.1/pdfbox-2.0.1-sources.jar
+2021-03-19 20:29:58,426 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.pdfbox:pdfbox:2.0.1
+2021-03-19 20:29:58,634 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/2.0.1/fontbox-2.0.1-sources.jar
+2021-03-19 20:30:01,091 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/2.0.1/fontbox-2.0.1-sources.jar
+2021-03-19 20:30:01,143 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.pdfbox:fontbox:2.0.1
+2021-03-19 20:30:01,391 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 20:30:01,391 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-19 20:30:01,392 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-19 20:30:01,394 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 20:30:01,394 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/npst/WORKSPACE_COSMOS_QR_GENERATOR/MerchantAdminPortal/src/test/resources
+2021-03-19 20:30:02,258 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.pdfbox:pdfbox:2.0.1
+2021-03-19 20:30:02,259 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.pdfbox:fontbox:2.0.1
+2021-03-19 20:30:02,477 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 20:30:02,478 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-19 20:30:02,478 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-19 20:30:02,480 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 20:30:02,481 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/npst/WORKSPACE_COSMOS_QR_GENERATOR/MerchantAdminPortal/src/test/resources
+2021-03-19 20:42:57,607 [Worker-16: Launching GenerateQR] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 20:42:57,608 [Worker-16: Launching GenerateQR] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-19 20:42:57,609 [Worker-16: Launching GenerateQR] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-19 20:42:57,612 [Worker-16: Launching GenerateQR] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 20:42:57,613 [Worker-16: Launching GenerateQR] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/npst/WORKSPACE_COSMOS_QR_GENERATOR/MerchantAdminPortal/src/test/resources
+2021-03-19 20:58:32,473 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 20:58:32,474 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-19 20:58:32,475 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-19 20:58:32,477 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 20:58:32,477 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/npst/WORKSPACE_COSMOS_QR_GENERATOR/MerchantAdminPortal/src/test/resources
+2021-03-19 21:01:32,518 [Worker-26: Launching GenerateQR] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 21:01:32,518 [Worker-26: Launching GenerateQR] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-19 21:01:32,519 [Worker-26: Launching GenerateQR] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-19 21:01:32,522 [Worker-26: Launching GenerateQR] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 21:01:32,522 [Worker-26: Launching GenerateQR] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/npst/WORKSPACE_COSMOS_QR_GENERATOR/MerchantAdminPortal/src/test/resources
+2021-03-19 21:04:12,867 [Worker-27: Launching GenerateQR] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 21:04:12,867 [Worker-27: Launching GenerateQR] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-19 21:04:12,868 [Worker-27: Launching GenerateQR] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-19 21:04:12,871 [Worker-27: Launching GenerateQR] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 21:04:12,871 [Worker-27: Launching GenerateQR] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/npst/WORKSPACE_COSMOS_QR_GENERATOR/MerchantAdminPortal/src/test/resources
+2021-03-22 11:26:00,373 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-03-22 11:26:18,241 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 11:26:18,322 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 11:26:18,323 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-22 11:26:18,331 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 11:26:18,331 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/npst/WORKSPACE_COSMOS_QR_GENERATOR/MerchantAdminPortal/src/test/resources
+2021-03-22 11:30:41,203 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 11:30:41,248 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 11:30:41,249 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-22 11:30:41,252 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 11:30:41,252 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/npst/WORKSPACE_COSMOS_QR_GENERATOR/MerchantAdminPortal/src/test/resources

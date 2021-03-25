@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+externalMigrateFromAuthorizationDatabase/isMigrated=true
+migrateFromAuthorizationDatabase/isMigrated=true
+repositories/00bb5ebbc388001b1e18cc664a7f2802=00bb5ebbc388001b1e18cc664a7f2802;http\://10.7.2.25/svn/upi/canara/backend_portal;http\://10.7.2.25/svn/upi/canara/backend_portal;branches;tags;trunk;true;;;;false;;;0

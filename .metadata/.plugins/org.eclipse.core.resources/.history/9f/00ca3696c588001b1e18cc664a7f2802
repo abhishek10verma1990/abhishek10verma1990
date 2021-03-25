@@ -1,0 +1,19 @@
+package com.npst.upi.portal.merchant;
+
+import com.npst.upi.portal.merchant.core.UpiQrCodeGenerator;
+import com.npst.upi.portal.merchant.entity.Merchants;
+
+public class GenerateQR {
+
+	public static void main(String[] args) {
+		Merchants merchant=new Merchants();
+		merchant.setBranchCode("5211");
+		merchant.setMerchantAccountNo("08210010958");
+		merchant.setMerchantVPA("9557858716@cosb");
+		merchant.setMccCode("5211");
+		merchant.setMerchantOrgName("THE MOBILE STAT");
+		merchant.setName("THE MOBILE STAT");
+		UpiQrCodeGenerator obj=new UpiQrCodeGenerator();
+		obj.generateQr(merchant);
+	}
+}
